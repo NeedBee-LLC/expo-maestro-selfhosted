@@ -1,0 +1,5 @@
+appId: com.codingitwrong.expomaestroselfhosted
+---
+- clearState
+- launchApp
+- assertVisible: expo-maestro-selfhosted
