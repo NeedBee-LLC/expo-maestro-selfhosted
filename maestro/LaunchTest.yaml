@@ -1,5 +1,10 @@
 appId: com.codingitwrong.expomaestroselfhosted
 ---
+- startRecording: Launch
+
 - clearState
 - launchApp
+
 - assertVisible: expo-maestro-selfhosted
+
+- stopRecording
