@@ -88,6 +88,6 @@ jobs:
         if: failure()
         with:
           name: maestro-recordings
-          path: /Users/josh/actions-runner/_work/maestro-ios-self-hosted/maestro-ios-self-hosted/*.mp4
+          path: /Users/josh/actions-runner/_work/expo-maestro-selfhosted/expo-maestro-selfhosted/*.mp4
           if-no-files-found: ignore
           retention-days: 5
