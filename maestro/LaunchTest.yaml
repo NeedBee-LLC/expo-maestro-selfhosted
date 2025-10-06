@@ -5,6 +5,6 @@ appId: com.codingitwrong.expomaestroselfhosted
 - clearState
 - launchApp
 
-- assertVisible: NOT FOUND
+- assertVisible: expo-maestro-selfhosted
 
 - stopRecording
